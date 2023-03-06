@@ -22,7 +22,7 @@ function App() {
     <>
       <Router>
     
-        {/* <Header /> */}
+
         <SideNavbar>
         <Routes>
           <Route path="/" element={<Home />} />
